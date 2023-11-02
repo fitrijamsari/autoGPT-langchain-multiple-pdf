@@ -1,5 +1,7 @@
 # INTRODUCTION
 
+![main_img](img/project_img.png)
+
 - Purpose: To allow chat conversation with bot regarding the content after uploading multiple PDFs files.
 - General Description: The project will enable autoGPT chat upon uploading multiple PDFs files
 - Technology Stack: OpenAI, Langchain, Streamlit, FAISS
